@@ -1,16 +1,20 @@
 <h1>Hi, I'm Jack! <br/><a href="https://github.com/jacktneely">Cloud Engineer</a> & <a href="https://www.linkedin.com/in/jacktneely/">Cloud Computing student</a>!</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
+
+- <b>PowerShell</b>
+  - [Sort HubSpot Leads by Microsoft 365 Users (Validating DNS from Email Address)](https://github.com/JackTNeely/PowerShell)
+  - [Fix Local Outlook Autodiscover Issue by Validating DNS and Modifying Machine Registry](https://github.com/JackTNeely/PowerShell)
+  - [Get All Mailbox Users | UPN, Creation Date, Change Date](https://github.com/JackTNeely/PowerShell)
 
 - <b>Data Management</b>
-  - [ERD & Database Design (MySQL)](https://github.com/JackTNeely/mysqlproject)
+  - [ERD & Database Design (MySQL) - Currently Private](https://github.com/JackTNeely/mysqlproject)
   
-- <b>User Interface</b>
-  - [Proposition, Sitemap, & Wireframe (UI)](https://github.com/JackTNeely/UIproject)
-  - [Prototype (UI)](https://github.com/JackTNeely/UIprototype)
+- <b>UI/UX</b>
+  - [Proposition, Sitemap, & Wireframe (UI) - Currently Private](https://github.com/JackTNeely/UIproject)
+  - [Prototype (UI) - Currently Private](https://github.com/JackTNeely/UIprototype)
   
-- <b>PowerShell</b>
-  - [Get All Mailbox Users | UPN, Creation Date, Change Date](https://github.com/JackTNeely/PowerShell)
+
 
 
 <!--
