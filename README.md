@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jack! <br/><a href="https://github.com/jacktneely">Cloud Engineer</a> & <a href="https://www.linkedin.com/in/jacktneely/">Cloud Computing student</a>!</h1>
+<h1>Hi, I'm Jack! <br/><a href="https://jacktneely.cloud">A Cloud Engineer</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
