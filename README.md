@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Get Intune Devices Discovered Apps (Windows devices, PowerBI installs](https://github.com/JackTNeely/PowerShell/blob/main/GetIntuneDevicesDiscoveredApps-Windows-PowerBI.ps1)
+  - [Get Intune Devices Discovered Apps (Windows devices, PowerBI installs)](https://github.com/JackTNeely/PowerShell/blob/main/GetIntuneDevicesDiscoveredApps-Windows-PowerBI.ps1)
   - [Get SharePoint Online User Permissions](https://github.com/JackTNeely/PowerShell/blob/main/Get-SPOUserPermissions.ps1)
   - [Sort HubSpot Leads by Microsoft 365 Users (Validating DNS from Email Address)](https://github.com/JackTNeely/PowerShell)
   - [Fix Local Outlook Autodiscover Issue by Validating DNS and Modifying Machine Registry](https://github.com/JackTNeely/PowerShell)
