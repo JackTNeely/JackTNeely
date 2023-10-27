@@ -3,6 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>PowerShell</b>
+  - [Monitor-CitrixLicenseUtilization.ps1](https://github.com/JackTNeely/Monitor-CitrixLicenseUtilization)
   - [Get-ADUserLocation.ps1](https://github.com/JackTNeely/PowerShell/blob/main/Get-ADUserLocation.ps1)
   - [Get Intune Devices Discovered Apps (Windows devices, PowerBI installs)](https://github.com/JackTNeely/PowerShell/blob/main/Get-PowerBIDevices.ps1)
   - [Get SharePoint Online User Permissions](https://github.com/JackTNeely/PowerShell/blob/main/Get-SPOUserPermissions.ps1)
